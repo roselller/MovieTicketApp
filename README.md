@@ -1,2 +1,2 @@
 # MovieTicketApp
-Year 1 Semester 2 Programming 2 Assignment
+A movie ticketing application created with C# for my school's final assessment in year 1, semester 2. (Programming II module)
